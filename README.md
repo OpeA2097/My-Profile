@@ -30,7 +30,6 @@ I'm currently expanding my knowledge and practical experience in:
 **Tools and Technologies:**
 - Cisco Packet Tracer.
 - Kali Linux.
-- Linux.
 - Cisco Networking.
 - Risk Assessment and Compliance Practices.
 
